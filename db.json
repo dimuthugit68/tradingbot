@@ -1,0 +1,51 @@
+{
+    "signals": [
+
+
+        {
+            "id": 1,
+            "symbol": "BTCUSDT",
+            "type": "Long",
+            "leverage": 10,
+            "entry_price": 20800,
+            "stop_loss": 20200,
+            "target_1": 28700,
+            "target_2": 28750,
+            "target_3": 29000,
+            "target_4": 30000,
+            "status": "New",
+            "current_target_achived": 0,
+            "is_profit": false,
+            "profit_percentage": "",
+            "is_loss": false,
+            "loss_percentage": ""
+        },
+        {
+            "id": 1,
+            "symbol": "ADAUSDT",
+            "type": "Long",
+            "leverage": 10,
+            "entry_price": 160,
+            "stop_loss": 140,
+            "target_1": 165,
+            "target_2": 170,
+            "target_3": 175,
+            "target_4": 180,
+            "status": "New",
+            "current_target_achived": 0,
+            "is_profit": false,
+            "profit_percentage": "",
+            "is_loss": false,
+            "loss_percentage": ""
+        }
+
+    ],
+    "comments": [
+        { "id": 1, "body": "some comment", "postId": 1 },
+        { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
+Footer© 2022 GitHub, In
